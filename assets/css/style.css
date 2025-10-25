@@ -291,6 +291,19 @@ h6 {
     line-height: 24px;
     margin-bottom: 30px;
   }
+
+  #hero p {
+    font-size: 18px;
+  }
+
+  #hero p span {
+    font-size: 18px;
+  }
+
+  #hero .hero-container {
+    transform: translateY(-18%);
+    -webkit-transform: translateY(-18%);
+  }
 }
 
 /*--------------------------------------------------------------
